@@ -1,3 +1,11 @@
+# Main open source g-code sensders
+| Project Name  | github  | stars | latest update | 
+| ------------- | ------------- |------------- | ------------- |
+| Candel  | https://github.com/Denvi/Candle  | 1.5k | Oct 30, 2019 |
+| Universal-G-Code-Sender  | https://github.com/winder/Universal-G-Code-Sender  | 1.8k | Mar 8, 2024 |
+| bCNC  | https://github.com/vlachoudis/bCNC | 1.5k | Oct 2, 2017 |
+
+
 # candleHandsOn
 compile the candle for ubuntu 22.04
 
